@@ -142,7 +142,7 @@ const GenerateThumbnail = ({ setImage, setImageStorageId, image, imagePrompt, se
           <div>
             <div className="mt-5 flex flex-col gap-2.5">
               <Label className="text-16 font-bold">
-                AI Prompt to generate podcast
+                AI Prompt to generate podcast image
               </Label>
               <Textarea
                 className=" focus-visible:ring-orange-1 focus-visible:border-none font-light "
